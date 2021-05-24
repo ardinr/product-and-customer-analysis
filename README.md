@@ -1,2 +1,4 @@
 # product-and-customer-analysis
-Sales analysis with excel
+This excel file is for my personal project in my website. Visit my website to see my portofolio.
+
+My website: ardinradestian.wordpress.com
